@@ -1,2 +1,2 @@
-# Clone-of-Spotify-
- A full-featured Spotify clone built with modern web technologies. Stream music, explore playlists, and enjoy a seamless audio experience. Includes user authentication, real-time playback, and responsive design. Built for learning and showcasing audio app dev.
+# Age-Calculator-
+ A simple and responsive age calculator built with [Tech Stack]. Enter your birth date to instantly calculate your age in years, months, and days. Useful for birthdays, forms, or just for fun! Clean UI and mobile-friendly.
